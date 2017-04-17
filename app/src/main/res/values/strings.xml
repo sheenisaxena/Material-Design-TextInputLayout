@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">DeliveryApp</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_address">Enter Address</string>
+    <string name="hint_add_notes">Want to add any notes</string>
+    <string name="label_submit">Submit</string>
+    <string name="error_failed_to_select">Fail to select.</string>
+
+    <string-array name="places_array">
+        <item>Ahmedabad, Gujarat</item>
+        <item>Rajkot, Gujarat</item>
+        <item>Andheri, Mumbai</item>
+        <item>India gate, Delhi</item>
+    </string-array>
+
+    <string-array name="days_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string-array name="time_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="time_period_array">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+</resources>
